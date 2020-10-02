@@ -1,2 +1,2 @@
 # PythonBasics
-Contains basic python pattern programs
+Contains basic python programs for learning
